@@ -13,3 +13,7 @@ Please respect our work.
 它是初阳书院北极星计算机俱乐部的一个项目。  
 我们计划让这个引擎支持COC以外的游戏，但是我们不做任何保证。  
 游戏引擎本体根据MIT协议开源，但是包括但不限于以下各项的内容并没有，请尊重我们的工作：音乐/文章/图片等。  
+
+THIS IS A POLARIS CLUB PROJECT   
+Join us : boblao0714@gmail.com
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>  
