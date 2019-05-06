@@ -2,4 +2,5 @@ import random
 import re
 
 
-def roll ()
+def roll (roll, data)
+ 
