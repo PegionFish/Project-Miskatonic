@@ -1,0 +1,112 @@
+==== INSTRUCTION ====
+
+This file contains your Invesgator's information. To make it simple, it is your Invesgator Card.
+Please do notice that this game only support The Seventh version of Call of Chutlhu game rules.
+Certain rules are deciede by your job and time. In game files, the skills are replaced by Sk_ with number. You could ask the author of the game you are using to offer files about skills used in this game.
+
+==== Invesgator's Basic Status ====
+
+TIME = 
+NAME = 
+PLAYER = 
+OCCUPATION = 
+AGE = 
+SEX = 
+RESIDENCE = 
+BIRTHPLACE = 
+
+==== Invesgator's Characteristics Status ====
+
+STR = 
+DEX = 
+POW = 
+CON = 
+APP = 
+EDU = 
+SIZ = 
+INT = 
+MVR =
+
+==== Invesgator's Skill List ====
+Sk_1 =
+Sk_2 =
+Sk_3 =
+Sk_4 =
+Sk_5 =
+Sk_6 =
+Sk_7 =
+Sk_8 =
+Sk_9 =
+Sk_10 =
+Sk_11 =
+Sk_12 =
+Sk_13 =
+Sk_14 =
+Sk_15 =
+Sk_16 =
+Sk_17 =
+Sk_18 =
+Sk_19 =
+Sk_20 =
+Sk_21 =
+Sk_22 =
+Sk_23 =
+Sk_24 =
+Sk_25 =
+Sk_26 =
+Sk_27 =
+Sk_28 =
+Sk_29 =
+Sk_30 =
+Sk_31 =
+Sk_32 =
+Sk_33 =
+Sk_34 =
+Sk_35 =
+Sk_36 =
+Sk_37 =
+Sk_38 =
+Sk_39 =
+Sk_40 =
+Sk_41 =
+Sk_42 =
+Sk_43 =
+Sk_44 =
+Sk_45 =
+Sk_46 =
+Sk_47 =
+Sk_48 =
+Sk_49 =
+Sk_50 =
+Sk_51 =
+Sk_52 =
+Sk_53 =
+Sk_54 =
+Sk_55 =
+Sk_56 =
+Sk_57 =
+Sk_58 =
+Sk_59 =
+Sk_60 =
+Sk_61 =
+Sk_62 =
+Sk_63 =
+Sk_64 =
+Sk_65 =
+Sk_66 =
+Sk_67 =
+Sk_68 =
+Sk_69 =
+Sk_70 =
+==== Invesgator's WEAPONS List ====
+WEAPON = Unarmed
+    TYP = Fighting
+    Reg = 
+    Hrd = 
+    Ext = 
+    DMG = 1d3+db
+    RNG = 0
+    ATK = 1
+    AMO = 0
+    MLF = 0
+====
