@@ -6,9 +6,9 @@ Certain rules are deciede by your job and time. In game files, the skills are re
 
 ==== Invesgator's Basic Status ====
 
-TIME = 
-NAME = 
-PLAYER = 
+TIME = 1920s            
+NAME = Huntley Haverstock  //This name is from https://web.archive.org/web/20070824083752/http://www.copyright.gov/fls/fl101.html
+PLAYER = root
 OCCUPATION = 
 AGE = 
 SEX = 
