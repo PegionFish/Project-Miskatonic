@@ -1,5 +1,10 @@
 # Operation-Miskatonic
 
+# THIS PROJECT WILL BE PAUSED FOR HALF AN YEAR DUE TO MY LACK FOR PROGRAMMING ABILITILES.
+# SEE YOU IN 2020
+
+
+
 # WARNING
 Due to the maintainer of this project uses Chinese as his/her mother language, Chinese version of the instruction files should be consider as what the maintainer wants to express.
 The maintainer have done all he/she can do to make Chinese version and English version as similar as possible. So if you have ever found any mistakes, please email to boblao0714@gmail.com or report a issue.  
