@@ -1,6 +1,7 @@
+import random
 
-
-with open('player\player_DEMO') as f:
-    for line in f.readlines():
-        print (line)
-        pass
+key = 1
+x = 0
+while x < key:
+    num = random.randint(1,100)
+    print (num)
