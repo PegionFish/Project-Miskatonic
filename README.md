@@ -1,46 +1,49 @@
 # Operation-Miskatonic
 
-# THIS PROJECT WILL BE PAUSED FOR HALF AN YEAR DUE TO MY LACK FOR PROGRAMMING ABILITILES.
-# SEE YOU IN 2020
+>  A game engine for TRPG Games.
+> Based on Python
+
+This is a gaming engine that is designed to run TRPG games. The Engine itself is modular designed, allow both the developers and the keepers to modify the game for whatever they want.  
+
+## Table of Contents
+
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Background
+
+People play TRPGs a lot. But I believe that a big problem for TRPG gamers is that they can't enjoy the game without enough people. So I want to write something to allow gamers like me who can't find friends with time or interest to enjoy TRPG.
+
+## Install
+
+Most Python libs I use came with Python package. Just install Python 3 and git clone this repo and you're good to go.  
+Please be aware that certain game pack may contain Python libs that *doesn't* come with standard Python package. If such thing happened, please just install the lib or contact with the developer of the game pack for support.
+
+## Usage
+
+The gameplay files are located in your repository folder. Just download the game pack you found online and copy everything to the folder that fits. Then, just run the main.py file and enjoy the game.
+
+### Make your own pack
+
+To make your own game pack, please pack all the files your game need and release the archive file with another README.
+
+## Maintainers 
+
+This engine's main maintainer is Bob Guo.
+
+## Contributing
+
+I'm 100%  welcome to anyone who wants to join the project and make some contrubite.
+
+## License
+
+This project is released under MIT proocol.
 
 
-
-# WARNING
-Due to the maintainer of this project uses Chinese as his/her mother language, Chinese version of the instruction files should be consider as what the maintainer wants to express.
-The maintainer have done all he/she can do to make Chinese version and English version as similar as possible. So if you have ever found any mistakes, please email to boblao0714@gmail.com or report a issue.  
-
-# 警告
-鉴于此项目的创立者和主要维护者使用中文作为母语，在本项目中，中文版本的说明文档将会是最精确表达我想法的文档。
-我已经竭尽全力尽量缩小中英文版本之差距，如果你发现任何问题/疏漏请联系我的email或者提交一个issue。
-  
-## Project README  
-A TRPG (Tabletop Role Playing Game) engine for single player work.  
-This engine is a project of The Polaris Computer Club.  
-According to our plan, this system SHOULD be able to support more than COC(Call of Cthulhu), but I DONT make any promises here.  
-The game engine itself is open-sourced with MIT but the following materials are NOT, they include : Articles/Musics/Images and more.  
-I plan to use Python as structure, and this game SHOULD be able to run on any system that supports Python 3. But as usual, I don't make any promise.   
-
-### Features
-
-IF everything goes right, after the project is done, I have two targets.  
-Either re-write the engine in C or add multi-player mode  
-
-
-## 项目说明
-这个项目的目标是构建一个单人跑团TRPG 引擎。  
-它是隔雨听竹的一个项目。  
-我计划让这个引擎支持COC以外的游戏，但是我不做任何保证。根据我的最初计划，这个引擎是基于Python构建的，所以它应该能够在所有支持Python的系统上运行，但是我仍然不做任何保证。  
-游戏引擎本体根据MIT协议开源，但是包括但不限于以下各项的内容并没有，请尊重我的工作：音乐/文章/图片等。  
-
-### 计划
-
-如果一切顺利，在这个引擎的基础搭建完成之后，关于这个项目的下一个目标要么是用C语言重写这个程序，要么就是增加一个多人游戏模式。  
-
-# CREATOR
-THIS IS A POLARIS CLUB PROJECT  
-
-Join us : boblao0714@gmail.com  
-
-
+The README file is based on [Standard Readme](https://github.com/RichardLitt/standard-readme) made by Richard Litt.  
 
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>  
