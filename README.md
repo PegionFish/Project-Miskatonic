@@ -41,7 +41,7 @@ I'm 100%  welcome to anyone who wants to join the project and make some contrubi
 
 ## License
 
-This project is released under MIT proocol.
+This project is released under MIT protocol.
 
 
 The README file is based on [Standard Readme](https://github.com/RichardLitt/standard-readme) made by Richard Litt.  
