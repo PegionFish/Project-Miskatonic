@@ -1,8 +1,8 @@
 import random
 import re
 
-def roll (roll, data):
+def roll(roll):
+    pass
 
-    class dice
-        num = random.randint(1,100)
-print (roll)
+def roll(data)
+    pass

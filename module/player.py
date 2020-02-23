@@ -1,8 +1,7 @@
-def player(update, read, write)
+def player(update)
+    pass
+def player(read)
+    pass
+def player(write)
+    pass
 
-# This is the part which reads file in
-with open('player\player_DEMO') as f:
-    for line in f.readlines():
-        print (line)
-
-#
