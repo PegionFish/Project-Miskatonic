@@ -1,5 +1,8 @@
+import sys
+sys.path = module/
+
 import tkinter
-import module/test.py
+import /module/test.py
 test.test
 
 #top = tkinter.Tk(className = 'Operation Miskatonic')
