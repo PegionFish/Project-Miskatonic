@@ -1,5 +1,5 @@
-def story(read)
+def story(read):
     pass
 
-def story (write)
+def story (write):
     pass

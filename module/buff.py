@@ -1,5 +1,5 @@
-def buff(buff)
+def buff(buff):
     pass
 
-def buff(debuff)
+def buff(debuff):
     pass

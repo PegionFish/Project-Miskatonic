@@ -4,5 +4,5 @@ import re
 def roll(roll):
     pass
 
-def roll(data)
+def roll(data):
     pass

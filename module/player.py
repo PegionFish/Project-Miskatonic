@@ -1,7 +1,7 @@
-def player(update)
+def player(update):
     pass
-def player(read)
+def player(read):
     pass
-def player(write)
+def player(write):
     pass
 
