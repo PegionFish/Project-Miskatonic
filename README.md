@@ -38,7 +38,7 @@ This engine's main maintainer is PegionFish.
 
 ## Contributing
 
-I'm 100%  welcome to anyone who wants to join the project and make some contrubite.
+I'm 100%  welcome to anyone who wants to join the project and make some contrubite. I personally is not familiar with git so maybe l8r
 
 ## License
 
